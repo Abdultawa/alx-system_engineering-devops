@@ -1,4 +1,2 @@
 #!/bin/bash
-mkdir tmp
-cd tmp
-mkdir my_frist_directory
+mktmp mkdir my_frist_directory
