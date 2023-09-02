@@ -1,3 +1,3 @@
 #!/bin/bash
-mv tpm 
+mv tmp 
 mkdir my_frist_directory
