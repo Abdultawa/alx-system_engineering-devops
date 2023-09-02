@@ -1,2 +1,3 @@
 #!/bin/bash
-mktmp mkdir my_frist_directory
+mv tpm 
+mkdir my_frist_directory
